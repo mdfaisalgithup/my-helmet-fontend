@@ -1,0 +1,81 @@
+[
+    {
+      "productId": "BKRY001",
+      "category": "Bakery",
+      "name": "Chocolate Croissant",
+      "productImage": "https://cdn.pixabay.com/photo/2015/02/25/13/21/croissant-648803_1280.jpg",
+      "rating": [4.5, 4.7, 4.8],
+      "price": 2.99,
+      "type": "Pastry",
+      "brand": "Bake Haven",
+      "description": "A flaky croissant filled with rich chocolate.",
+      "date": "2023-01-15"
+    },
+    {
+      "productId": "BKRY002",
+      "category": "Bakery",
+      "name": "Blueberry Muffin",
+      "productImage": "https://cdn.pixabay.com/photo/2017/03/12/10/29/blueberry-muffins-2136749_1280.jpg",
+      "rating": [4.2, 4.4, 4.6],
+      "price": 1.99,
+      "type": "Muffin",
+      "brand": "Sweet Treats Bakery",
+      "description": "A soft muffin bursting with fresh blueberries.",
+      "date": "2023-02-10"
+    },
+    {
+      "productId": "BKRY003",
+      "category": "Bakery",
+      "name": "Cinnamon Roll",
+      "productImage": "https://cdn.pixabay.com/photo/2021/07/31/02/15/bread-6511015_1280.jpg",
+      "rating": [4.7, 4.9],
+      "price": 3.49,
+      "type": "Pastry",
+      "brand": "Cinnamon Delights",
+      "description": "A swirl of cinnamon goodness, topped with icing.",
+      "date": "2023-03-05"
+    },
+  
+    
+        {
+          "productId": "BKRY004",
+          "category": "Bakery",
+          "name": "Almond Croissant",
+          "productImage": "https://cdn.pixabay.com/photo/2014/10/22/18/05/breakfast-498480_640.jpg",
+          "rating": [4.6, 4.9, 4.7],
+          "price": 3.29,
+          "type": "Pastry",
+          "brand": "Bake Haven",
+          "description": "A classic croissant filled with almond paste and topped with sliced almonds.",
+          "date": "2023-04-20"
+        },
+        {
+          "productId": "BKRY005",
+          "category": "Bakery",
+          "name": "Raspberry Danish",
+          "productImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThtbiZ-vewPwKjNdQmxAR07du7GcLsPzHwqg&usqp=CAU",
+          "rating": [4.4, 4.6, 4.8],
+          "price": 2.79,
+          "type": "Pastry",
+          "brand": "Berry Delights",
+          "description": "A flaky pastry filled with raspberry jam and drizzled with icing.",
+          "date": "2023-05-12"
+        },
+        {
+          "productId": "BKRY006",
+          "category": "Bakery",
+          "name": "Banana Nut Bread",
+          "productImage": "https://cdn.pixabay.com/photo/2020/12/04/19/21/cake-5804135_640.jpg",
+          "rating": [4.8, 4.9],
+          "price": 4.49,
+          "type": "Bread",
+          "brand": "Homemade Bakes",
+          "description": "A moist bread with ripe bananas and crunchy nuts.",
+          "date": "2023-06-08"
+        }
+  
+    
+  
+
+  ]
+  
